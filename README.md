@@ -60,7 +60,9 @@ Divorced: 297<br>
 
 These insights help management better understand the workforce composition and areas where targeted retention strategies may be most effective.
 
-📖 For the full breakdown with step-by-step visuals and formulas, check out the detailed Medium article here:  👉 Biliv Augmented Employee Attrition in Power Bi – A Complete Guide to the Employee Attrition Analysis
+## 📖 Read the Full Story on Medium  
+[Uncovering the Hidden Drivers of Employee Turnover: A Data Analyst’s Guide to Retention Strategy](https://medium.com/@elvisfrimpong.da/uncovering-the-hidden-drivers-of-employee-turnover-a-data-analysts-guide-to-retention-strategy-9929d1dcd931)
+
 
 👉 Scroll down to view the dashboard and explore insights on employee turnover, satisfaction, and performance.
 ![Screenshot 2025-06-11 230927](https://github.com/user-attachments/assets/7125c6b1-0a2f-4cb0-ab83-5622d4509be6)
