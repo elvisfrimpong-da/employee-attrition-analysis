@@ -64,5 +64,9 @@ These insights help management better understand the workforce composition and a
 [Uncovering the Hidden Drivers of Employee Turnover: A Data Analyst’s Guide to Retention Strategy](https://medium.com/@elvisfrimpong.da/uncovering-the-hidden-drivers-of-employee-turnover-a-data-analysts-guide-to-retention-strategy-9929d1dcd931)
 
 
-👉 Scroll down to view the dashboard and explore insights on employee turnover, satisfaction, and performance.
+### 👉 Scroll down to view the dashboard and explore insights on employee turnover, satisfaction, and performance.
 ![Screenshot 2025-06-11 230927](https://github.com/user-attachments/assets/7125c6b1-0a2f-4cb0-ab83-5622d4509be6)
+
+
+-Let's Connect
+[LinkedIn](https://www.linkedin.com/in/elvisfrimpong)
