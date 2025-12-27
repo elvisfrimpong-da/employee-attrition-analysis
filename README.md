@@ -6,7 +6,7 @@ This project aims to analyze employee attrition at Biliv-Augmenta to uncover the
 - Understand reasons behind employee resignations or exits
 - Develop data-driven strategies to improve retention
 - Inform HR and management decisions for employee satisfaction
-- Support the creation of effective employee engagement programs
+- Support the creation of effective employee engagement programs.
 
 ## 🛠️ Tools Used
 - Power BI – for data modeling, visualization, and dashboard creation
