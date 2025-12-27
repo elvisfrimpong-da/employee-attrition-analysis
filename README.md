@@ -25,6 +25,7 @@ The dataset consists of multiple dimension and fact tables, including:
 
 ## CalMeasures (calculated measures)
 - These were connected using Power BI’s Model View to establish one-to-many relationships and maintain data integrity for accurate analysis.
+
 ### 🔍 Key Calculated Measure
 - Attrition Rate (DAX formula):
 %AttritionDate = DIVIDE([InActiveEmployeesDate], [TotalEmployeesDate]).
@@ -54,9 +55,9 @@ Oldest Employee: 51 years
 50+ years: 7 employees
 
 - 💍 Marital Status Breakdown<br>
-Married: 624<br>
-Single: 549<br>
-Divorced: 297<br>
+Married: 624 (42.45%)<br>
+Single: 549 (37.35%)<br>
+Divorced: 297 (20.20%)<br>
 
 These insights help management better understand the workforce composition and areas where targeted retention strategies may be most effective.
 
