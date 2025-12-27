@@ -68,5 +68,5 @@ These insights help management better understand the workforce composition and a
 ![Screenshot 2025-06-11 230927](https://github.com/user-attachments/assets/7125c6b1-0a2f-4cb0-ab83-5622d4509be6)
 
 
--Let's Connect
+-Let's Connect On 
 [LinkedIn](https://www.linkedin.com/in/elvisfrimpong)
